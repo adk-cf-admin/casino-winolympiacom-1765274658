@@ -1,0 +1,19 @@
+{
+  "name": "WinOlympia",
+  "short_name": "WinOlympia",
+  "theme_color": "",
+  "background_color": "#060712",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1765203702-favicon-7.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

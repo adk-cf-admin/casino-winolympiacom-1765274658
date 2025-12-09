@@ -1,0 +1,201 @@
+{
+    "en-GB": {
+        "styles": {
+            "bg": "#060712",
+            "lang-select-color": "#222829",
+            "bg-light": "#060712",
+            "welcome-bonus-bg": "#060712",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#171A31",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#343960",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#B88D1A",
+            "yellow": "#343960",
+            "yellow-button": "#B88D1A",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#060712",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#060712",
+            "faq-label": "#060712",
+            "bg-footer": "#060712",
+            "copyright": "#e7e7d5",
+            "starColor": "#343960",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "WinOlympia",
+            "title": "WinOlympia Casino | Games, Bonuses, Fast Payouts & Security",
+            "description": "Discover WinOlympia \u2014 a modern online casino offering thousands of games, generous bonuses, fast withdrawals, and top-notch data protection. Play safely and win big!\n",
+            "canonical": "casino-winolympia.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/935",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casino-winolympia.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/936",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/937"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/938",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "WinOlympia Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "WinOlympia Casino \u2014 Thrills, Bonuses & Secure Gaming",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/939",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/940",
+            "mobileImageSizeModifier": -10,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of games from top providers",
+                "Generous bonuses and regular promotions",
+                "Fast payouts with cryptocurrency support",
+                "User-friendly interface and mobile version",
+                "Loyalty program with cashback up to 20%",
+                "Demo mode for free game testing",
+                "Support for popular payment systems and currencies"
+            ],
+            "advantagesAfterText": "WinOlympia offers a modern platform with a huge variety of games and attractive bonuses. Fast withdrawals, crypto support, and an intuitive interface ensure a smooth and enjoyable gaming experience.\n",
+            "knowMore": "Know more",
+            "appTitle": "WinOlympia App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/941",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "WinOlympia App",
+            "mobileGooglePlayImageTitle": "WinOlympia App",
+            "mobileIosImageTitle": "WinOlympia App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About WinOlympia",
+                "description1": "",
+                "items": [
+                    "Bonus up to \u20ac4,250 for newcomers",
+                    "Free spins up to 425 on deposits",
+                    "Maximum win up to \u20ac1,250,000"
+                ],
+                "description2": "WinOlympia is a modern online casino with a user-friendly interface. The platform offers a wide selection of games from leading providers. Players can enjoy slots, table games, and live casino options. The site is optimized for mobile devices for convenient play. Various bonuses and promotions are available for users. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/942",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "A loyalty program adds extra value to the experience. Popular payment methods and cryptocurrencies are supported. Withdrawals are processed quickly and securely. The casino focuses on comfort and reliability for players. WinOlympia combines stylish design with high-quality service.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "WinOlympia \u2014 a modern casino for big wins",
+                "description": "<p>\nWinOlympia is a dynamic platform designed for gaming enthusiasts who value quality and convenience. The casino offers a stylish design, easy navigation, and mobile optimization, allowing players to enjoy their favorite games anytime, anywhere.\n\n<\/p>\n<br>\n<p>\nThe game collection at WinOlympia is truly impressive. It features slots, table games, and live casino options from leading global providers. With high-quality graphics and well-designed mechanics, every game delivers an authentic and engaging experience.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to the bonus system. The platform regularly rewards players with welcome offers, free spins, and promotions that make gameplay even more exciting. A loyalty program adds extra benefits and cashback, which regular players appreciate.\n\n<\/p>\n<br>\n<p>\nWinOlympia ensures secure and convenient transactions. Popular payment methods, including bank cards and cryptocurrencies, are supported. Withdrawals are processed quickly and reliably, so winnings are always within easy reach.\n\n<\/p>\n<br>\n<p>\nThis casino combines a modern approach, extensive functionality, and high service standards. WinOlympia is created for those who seek thrill, comfort, and real opportunities for big wins.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Currencies at WinOlympia\n\n<\/h3>\n\n<p>\nWinOlympia offers players a wide range of convenient and secure payment options. The platform supports both traditional bank cards and modern digital solutions, allowing every user to choose the most suitable method. Among the available options are Visa, MasterCard, as well as popular e-wallets and mobile payment systems.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to cryptocurrencies. The casino accepts Bitcoin, Ethereum, Litecoin, Dogecoin, and other digital assets, making deposits and withdrawals fast and confidential. This is especially appealing to players who value privacy and cutting-edge technology.\n\n<\/p>\n<br>\n<p>\nWinOlympia also provides flexibility in currency selection. Users can make transactions in major global currencies such as euros, US dollars, and British pounds. This ensures comfort for players from different countries and simplifies financial operations.\n\n<\/p>\n<br>\n<p>\nAll payments are processed using advanced data protection systems, guaranteeing security and reliability. Withdrawals are handled quickly so that winnings are available without unnecessary delays.\n\n<\/p>\n<br>\n<p>\nWinOlympia makes the payment process simple, safe, and convenient, offering solutions tailored to different preferences and regions.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWinOlympia Casino Rules: Conditions and Restrictions\n\n<\/h3>\n\n<p>\nWinOlympia follows strict rules to ensure fair and secure gameplay. Every user must register and verify their age, as access is allowed only for adults. When creating an account, accurate personal information is required to avoid withdrawal issues. The casino prohibits multiple accounts for one person. All financial transactions must be processed through official payment methods supported by the platform. Players are not allowed to use third-party software or bots to gain an advantage. Account sharing with third parties is strictly forbidden. Responsible gaming rules must be observed, including setting personal limits. Violating these conditions may result in account suspension and forfeiture of winnings. WinOlympia aims to provide a safe environment where everyone can enjoy gaming without fraud risks.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nRegistration with accurate personal details\n\n<\/li>\n            <li>\u2022 \nAge verification (18+)\n\n<\/li>\n            <li>\u2022 \nUse only official payment methods\n\n<\/li>\n           <li>\u2022 \nFollow responsible gaming guidelines\n\n\n<\/li>\n\n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Restrictions\n<\/h4>\n        <ul>\n            <li>\u2022 \nCreating multiple accounts\n\n<\/li>\n            <li>\u2022 \nUsing bots or third-party software\n\n<\/li>\n       <li>\u2022 \nSharing account with others\n\n<\/li>\n            <li>\u2022 \nAttempting fraud or rule circumvention\n\n\n<\/li>\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Security at WinOlympia\n\n<\/h3>\n\n<p>\nWinOlympia claims to follow international standards of security and privacy to provide a reliable gaming environment for its users. The casino operates on principles of transparency and data protection, using advanced technologies to safeguard information.\n\n<\/p>\n<br>\n<p>\nA multi-layered security system is applied to protect personal data. All transactions are processed through secure channels using SSL protocol, which encrypts information and prevents interception by third parties. This ensures that player data, including payment details, remains confidential.\n\n<\/p>\n<br>\n<p>\nWinOlympia\u2019s privacy policy includes strict control over the handling of personal information. Data is never shared with third parties without user consent, and its use is limited to account management and financial operations. The casino also employs modern anti-fraud measures and protection against unauthorized access.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to secure payments. All financial operations are verified for compliance with security standards, and a monitoring system prevents suspicious transactions. This allows players to trust the safety of their funds.\n\n<\/p>\n<br>\n<p>\nIn summary, WinOlympia combines high standards of data protection, a transparent privacy policy, and advanced encryption technologies to create a safe and comfortable gaming environment.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWinOlympia Customer Support: Fast, Convenient, Accessible\n\n<\/h3>\n\n<p>\nWinOlympia places great emphasis on providing high-quality customer service through multiple communication channels. Players can contact support via live chat, email, or phone. Each option ensures quick assistance and effective problem resolution.\n\n<\/p>\n<br>\n<p>\nResponse time depends on the chosen channel. Live chat operates 24\/7 and offers instant help. Email responses are typically delivered within a few hours, while phone support is available during business hours for personalized assistance.\n\n<\/p>\n<br>\n<p>\nThe quality of service meets high standards. Support agents are trained to resolve issues promptly and professionally. Courtesy, expertise, and readiness to assist are the core principles of the team.\n\n<\/p>\n<br>\n<p>\nWinOlympia also focuses on accessibility for players worldwide. Customer support is available in several languages, including English, German, Spanish, and more, making communication easy for an international audience.\n\n<\/p>\n<br>\n<p>\nIn short, WinOlympia provides reliable, multilingual support, ensuring comfort and confidence for every user.\n\n<\/p>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Communication Channels\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat (24\/7)\n\n<\/li>\n            <li>\u2022 \nEmail support\n\n<\/li>\n            <li>\u2022 \nPhone assistance\n\n\n<\/li>\n           <li>\u2022 \n\u0422\u0435\u043a\u0441\u0442\n<\/li>\n\n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Service Features\n<\/h4>\n        <ul>\n            <li>\u2022 \nInstant responses in chat\n\n<\/li>\n            <li>\u2022 \nProfessional assistance\n\n<\/li>\n       <li>\u2022 \nMultilingual availability\n\n<\/li>\n \n        <\/ul><br>\n  \n    <\/div>\n<\/div>\n<br>\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at WinOlympia",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nWinOlympia Loyalty Program: Levels, Bonuses, and Benefits\n<\/h3>\n\n<p>\nThe WinOlympia loyalty program is designed to reward active players and make gaming even more profitable. It offers exclusive bonuses, cashback, and additional privileges for regular customers. Participation begins immediately after registration, and every deposit helps you progress to higher levels. The higher your status, the greater the benefits: increased bonuses, personalized offers, and priority support. Players can enjoy weekly cashback, extra free spins, and special promotions for VIP tiers. The program is based on transparent conditions, and progress can be tracked in your account. It\u2019s a great way to get more from your gaming experience and turn every deposit into extra rewards.\n\n<\/p>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nRegister on the WinOlympia website\n\n<\/li>\n            <li>\u2022 \nVerify identity and age (18+)\n\n<\/li>\n            <li>\u2022 \nMinimum deposit to participate \u2014 \u20ac20\n\n<\/li>\n\n  \n        <\/ul><br>\n    <h4 style = \"font-weight: bold; font-size: 24px;\">Program Levels and How to Reach Them\n<\/h4>\n            <ul>\n            <li>\u2022 \nBronze \u2014 starting level for all registered players\n\n<\/li>\n            <li>\u2022 \nSilver \u2014 active play and deposits from \u20ac500\n\n<\/li>\n            <li>\u2022 \nGold \u2014 total deposits from \u20ac2,000\n\n<\/li>\n            <li>\u2022 \nPlatinum \u2014 deposits from \u20ac5,000 with personalized perks\n\n<\/li>\n            <li>\u2022 \nVIP \u2014 invitation-only for the most active players\n\n\n<\/li>\n  \n        <\/ul><br>\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Bonuses and Privileges\n<\/h4>\n        <ul>\n            <li>\u2022 \nCashback up to 20% weekly\n\n<\/li>\n            <li>\u2022 \nFree spins on popular slots\n\n<\/li>\n       <li>\u2022 \nHigher withdrawal limits\n\n<\/li>\n            <li>\u2022 \nPersonalized bonuses for VIP players\n\n<\/li>\n              <li>\u2022 \nSpecial promotions and prize tournaments\n\n<\/li>\n            <li>\u2022 \nExclusive gifts and access to private promos\n\n<\/li>\n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWinOlympia Bonuses and Special Offers: Maximum Opportunities for Players\n\n<\/h3>\n\n<p>\nWinOlympia provides a wide range of bonuses and special offers that make gaming even more exciting. In addition to standard welcome packages, the platform regularly hosts promotions tied to popular slots and table games. Players can enjoy extra free spins, boosted multipliers, and exclusive prizes during themed events. Seasonal campaigns offer gifts and cash rewards, while tournaments with massive jackpots create a thrilling atmosphere. The casino also organizes holiday promotions for New Year, Halloween, and other occasions. All offers come with transparent conditions and real chances to win. It\u2019s a great way for players to boost their balance and experience unique gaming opportunities.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWelcome Package\n<\/h4>\n\n <ul>\n            <li>\u2022 \nUp to \u20ac4,250 in deposit bonuses\n\n<\/li>\n            <li>\u2022 \nUp to 425 free spins on top slots\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWeekly Promotions<\/h4>\n\n <ul>\n            <li>\u2022 \nFriday Reload \u2014 50% bonus up to \u20ac500\n\n<\/li>\n            <li>\u2022 \nSunday Boost \u2014 100 free spins on selected games\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTournaments and Jackpots\n<\/h4>\n\n <ul>\n            <li>\u2022 \nPrize pools up to \u20ac50,000\n\n<\/li>\n            <li>\u2022 \nMonthly tournaments with exclusive slots\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSeasonal Events<\/h4>\n\n <ul>\n            <li>\u2022 \nNew Year promos with gifts and cashback\n\n<\/li>\n            <li>\u2022 \nHalloween offers with free spins and bonuses\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSpecial Deals\n<\/h4>\n\n <ul>\n            <li>\u2022 \nNo-deposit bonuses via promo codes (e.g., 40 FS)\n<\/li>\n\n            <li>\u2022 \nBoosted multipliers on live games during weekends\n\n\n<\/li>\n  \n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at WinOlympia: Top Entertainment for Players\n<\/h3>\n\n<p>\nWinOlympia offers a vast selection of games to satisfy every player\u2019s taste. The core of the collection consists of modern video slots with stunning graphics and exciting bonus features. Fans of classic casino entertainment will enjoy table games like roulette, blackjack, and poker. For those who love the real casino atmosphere, live dealer games are available. The platform partners with leading providers such as NetEnt, Yggdrasil, Pragmatic Play, and Play\u2019n GO, ensuring top-quality content. New releases are added regularly so players can experience the latest hits. Progressive jackpot games are especially popular, offering chances to win massive prizes. There are also exclusive slots with unique mechanics and themed adventures. All games are optimized for mobile devices, making gameplay convenient anywhere.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular WinOlympia Games\n<\/h4>\n\n <ul>\n            <li>\u2022 \nStarburst (NetEnt) \u2014 iconic slot with expanding wilds and vibrant design.\n\n<\/li>\n            <li>\u2022 \nBook of Dead (Play\u2019n GO) \u2014 adventure-themed slot with bonus rounds and high win potential.\n<\/li>\n            <li>\u2022 \nSweet Bonanza (Pragmatic Play) \u2014 colorful slot featuring cascading wins and multipliers.\n\n<\/li>\n            <li>\u2022 \nGonzo\u2019s Quest (NetEnt) \u2014 avalanche mechanics with multipliers up to x15.\n\n<\/li>\n\t    <li>\u2022 \nMega Moolah (Microgaming) \u2014 progressive jackpot offering million-dollar prizes.\n\n<\/li>\n\t    <li>\u2022 \nEuropean Roulette Live \u2014 classic roulette with live dealers and realistic gameplay.\n\n<\/li>\n\t    <li>\u2022 \nBlackjack VIP Live \u2014 premium blackjack experience for strategy enthusiasts.\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at WinOlympia\n<\/h3>\n\n<p> \nWinOlympia offers flexible betting limits for players with different budgets. Minimum bets make it easy to start without big investments, while maximum bets provide opportunities for massive wins. Limits vary by game type: slots, table games, and live casino options have different ranges. This makes the platform suitable for both beginners and high rollers.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#B88D1A; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Video Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Table Games<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.50 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac2,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Jackpot Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.20<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac50<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at WinOlympia: The Real Casino Atmosphere\n\n<\/h3>\n\n<p>\nWinOlympia is not just an online gaming platform but a space that recreates the atmosphere of a real casino with exciting events and shows. The casino regularly organizes special activities that make gameplay more thrilling and diverse. These events aim to bring players together, deliver emotions, and offer unique winning opportunities.\n\n<\/p>\n<br>\n<p>\nThemed promotions and holiday campaigns play a key role. During major holidays such as New Year, Halloween, or summer festivals, WinOlympia hosts exclusive promotions with bonuses, free spins, and prize giveaways. These campaigns feature vibrant designs and unique gaming offers that create a festive mood.\n\n<\/p>\n<br>\n<p>\nAdditionally, the platform offers competitive tournaments with large prize pools. These tournaments focus on popular slots and table games, rewarding winners with cash prizes, free spins, and VIP perks. It\u2019s a great chance for players to experience the thrill of competition and boost their winnings.\n\n<\/p>\n<br>\n<p>\nFor live game enthusiasts, special shows with professional dealers are organized. These events include games with boosted multipliers, exclusive bets, and unique prizes, creating an authentic casino atmosphere and making players feel part of an elite club.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll Entertainment and Events with Short Descriptions\n<\/h4>\n\n <ul>\n            <li>\u2022 \nThemed Promotions \u2014 holiday bonuses and free spins for New Year, Halloween, summer festivals.\n\n<\/li>\n            <li>\u2022 \nSlot Tournaments \u2014 monthly competitions with prize pools up to \u20ac50,000.\n\n<\/li>\n            <li>\u2022 \nLive Dealer Shows \u2014 special games with boosted stakes and exclusive rewards.\n\n<\/li>\n            <li>\u2022 \nSeasonal Giveaways \u2014 gifts, cashback, and bonuses during festive campaigns.\n\n<\/li>\n\t    <li>\u2022 \nExclusive Gaming Nights \u2014 limited-time events featuring unique slots and jackpots.\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at WinOlympia\n\n<\/h3>\n\n<p>\nWinOlympia offers convenient and secure withdrawal methods to ensure players receive their winnings quickly and safely. The platform supports traditional bank cards, modern e-wallets, and cryptocurrencies. Available options include Visa, MasterCard, bank transfers, as well as popular systems like Skrill, Neteller, and digital currencies (Bitcoin, Ethereum, Litecoin, USDT).\n\n<\/p>\n<br>\n<p>\nPayout speed depends on the chosen method. E-wallets and cryptocurrencies are processed the fastest \u2014 usually within 1\u201324 hours. Bank cards and transfers may take 1\u20133 business days. All transactions undergo security checks to guarantee the safety of funds and personal data.\n\n<\/p>\n<br>\n<p>\nProcessing times include mandatory identity verification (KYC), which is required only once during the first withdrawal. This standard procedure helps prevent fraud and protect users.\n\n<\/p>\n<br>\n<p>\nWithdrawal limits also vary by method. The minimum withdrawal amount is typically \u20ac20, while the maximum is up to \u20ac4,000 per transaction. VIP players may enjoy higher limits and faster processing.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Methods\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBank Cards (Visa, MasterCard) \u2014 1\u20133 business days\n\n<\/li>\n            <li>\u2022 \nE-wallets (Skrill, Neteller) \u2014 within 24 hours\n\n<\/li>\n            <li>\u2022 \nE-wallets (Skrill, Neteller) \u2014 within 24 hours\n\n<\/li>\n            <li>\u2022 \nBank Transfer \u2014 2\u20135 business days\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing Times\n<\/h4>\n\n <ul>\n            <li>\u2022 \nKYC verification required for first withdrawal\n\n<\/li>\n            <li>\u2022 \nE-wallets and crypto \u2014 fastest\n\n<\/li>\n            <li>\u2022 \nBank transfers \u2014 longest\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLimits\n<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum withdrawal \u2014 \u20ac20\n\n<\/li>\n            <li>\u2022 \nMaximum withdrawal \u2014 \u20ac4,000 per transaction\n\n<\/li>\n            <li>\u2022 \nVIP players \u2014 personalized limits\n\n<\/li>\n\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "How is my data protected?",
+                    "answer": "All data is encrypted via SSL and stored on secure servers.\n"
+                },
+                {
+                    "title": "Do I need verification to play?",
+                    "answer": "Yes, KYC identity check is required for withdrawals.\n"
+                },
+                {
+                    "title": " Is there a demo mode for games?",
+                    "answer": "Yes, most slots are available in free demo mode.\n"
+                },
+                {
+                    "title": "Is customer support available 24\/7?",
+                    "answer": "Yes, live chat is available 24\/7, email and phone during business hours.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/943",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "WinOlympia"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-GB",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
